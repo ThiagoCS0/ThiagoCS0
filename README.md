@@ -8,7 +8,6 @@
    <thead>
       <tr>
          <th>ULTILIZO</th>
-         <th></th>
          <th>APRENDENDO</th>
       </tr>
    </thead>
