@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Olá 👋, Eu sou Thiago</h1>
 <h4>
-:construction:  Um aprendiz da Vida; um Programador em desenvolvimento;  :construction:
+:construction:  Um aprendiz da Vida; Um Programador em desenvolvimento;  :construction:
 <h4>
 <h3>Linguagens e Ferramentas</h3>
 <table border="0px">
