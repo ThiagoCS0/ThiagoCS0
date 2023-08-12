@@ -4,7 +4,7 @@
 :construction:  Programador em desenvolvimento  :construction:
 <h4>
 <h3 align="center">Linguagens e Ferramentas</h3>
-<table align="center" style="border: 0">
+<table align="center" border="0">
    <thead>
       <tr>
          <th>ULTILIZO</th>
