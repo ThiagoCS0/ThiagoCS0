@@ -36,4 +36,6 @@
 </table>
 
 ![Thiago](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCS0&theme=blue-green)
+
+<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Email: <a href="mailto:tcsreserva@gmail.com">tcsreserva@gmail.com</a></p>
 </div>
