@@ -24,7 +24,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSC : Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
          </td>
          <td>
-         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white" title="UE : Unreal Engine" alt="Unreal Engine" width="50" height="40"/>
+         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white" title="UE : Unreal Engine" alt="Unreal Engine" width="217" height="40"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>
          </td>
          <td>
