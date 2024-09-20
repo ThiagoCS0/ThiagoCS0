@@ -9,7 +9,7 @@
    </thead>
    <tbody>
       <tr>
-       <td><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,react,dotnet,cs,js,html,css,ps" /></a></p></td>
+       <td><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,react,dotnet,cs,js,html,css,vite,vscode,visualstudio,idea,ps" /></a></p></td>
       </tr>
    </tbody>
    </table>
