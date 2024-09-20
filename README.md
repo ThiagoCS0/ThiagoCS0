@@ -1,36 +1,30 @@
 <div align="center">
-<h1>Olá 👋, Eu sou Thiago</h1>
-<h4>
-:construction:  Um aprendiz da Vida; Um Programador em desenvolvimento;  :construction:
-<h4>
-<h3>Linguagens e Ferramentas</h3>
+<h1>Olá 👋, me chamo Thiago Silva</h1>
+<h4>Essas são algumas linguagens e ferramentas que uso ou já usei.</h3>
 <table border="0px">
    <thead>
       <tr>
          <th>ULTILIZO</th>
-         <th>APRENDENDO</th>
-         <th>FUTURAMENTE</th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C# : C Sharp" alt="csharp" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML 5" alt="Html 5" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS 3" alt="Css3" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="PS : Photoshop" alt="Photoshop" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="VS : Visual Studio" alt="Visual Studio" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSC : Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
-         </td>
-         <td>
-         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white" title="UE : Unreal Engine" alt="Unreal Engine" width="217" height="40"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>
-         </td>
-         <td>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>
-         </td>
+       <td><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,react,dotnet,cs,js,html,css,ps" /></a></p></td>
+      </tr>
+   </tbody>
+   </table>
+   
+   <table border="0px">
+   <thead>
+      <tr>
+         <th>APRENDENDO</th>
+         <th>TIVE CONTATO</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+       <td><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" /></a></p></td>
+       <td><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unreal,blender,cpp,py" /></a></p></td>
       </tr>
    </tbody>
 </table>
