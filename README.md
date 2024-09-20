@@ -4,7 +4,7 @@
 <table border="0px">
    <thead>
       <tr>
-         <th>ULTILIZO</th>
+         <th>UTILIZO</th>
       </tr>
    </thead>
    <tbody>
