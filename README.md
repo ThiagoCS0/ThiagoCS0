@@ -24,7 +24,7 @@
    <tbody>
       <tr>
        <td><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" /></a></p></td>
-       <td><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unreal,blender,cpp,py" /></a></p></td>
+       <td><p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unreal,blender,cpp,nodejs,py" /></a></p></td>
       </tr>
    </tbody>
 </table>
